@@ -22,7 +22,7 @@ Test whether xv6 is running by running the following:</br></br>
 Congragulations, you've successfully installed xv6 on your computer!
 </br>
 Now, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. 
-A system call is a way for programs to interact with the operating system.
+A system call is a way for programs to interact with the operating system.</br>
 Video references to begin with:
 <ul>
 <li>For <a href="https://www.youtube.com/watch?v=21SVYiKhcwM">ps (a system call for listing process ID's)</a>
