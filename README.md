@@ -8,7 +8,7 @@ Git install command:
 
 Commands to install qemu (an emulator) and cloning the xv6 repo:
 
-  sudo apt-get install qemu
+  sudo apt-get install qemu</br>
   sudo apt-get install libc6-dev:i386
   git clone https://github.com/mit-pdos/xv6-public.git xv6
   chmod 700 -R xv6
