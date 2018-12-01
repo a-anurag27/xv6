@@ -4,21 +4,21 @@ It is necessary to have a Linux flavor for this.
 To start off first we must have git on our laptops to clone the official repo of xv6 by MIT.
 Git install command:
 
-  sudo apt-get install git</br>
+  <b>sudo apt-get install git</b></br>
 
 Commands to install qemu (an emulator) and cloning the xv6 repo:
-
+<b>
   sudo apt-get install qemu</br>
   sudo apt-get install libc6-dev:i386</br>
   git clone https://github.com/mit-pdos/xv6-public.git xv6</br>
   chmod 700 -R xv6</br>
-
+</b>
 Test whether xv6 is running by running the following:
-
+<b>
   cd xv6</br>
   make</br>
   make qemu</br>
-  
+</b>
 Congragulations, you've successfully installed xv6 on your computer!
 
 Now, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. 
