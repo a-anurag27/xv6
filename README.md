@@ -13,7 +13,7 @@ Commands to install qemu (an emulator) and cloning the xv6 repo:
   git clone https://github.com/mit-pdos/xv6-public.git xv6</br>
   chmod 700 -R xv6</br>
 </b>
-Test whether xv6 is running by running the following:
+Test whether xv6 is running by running the following:</br>
 <b>
   cd xv6</br>
   make</br>
