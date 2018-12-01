@@ -6,21 +6,21 @@ Git install command:
 
   <b>sudo apt-get install git</b></br>
 
-Commands to install qemu (an emulator) and cloning the xv6 repo:
+Commands to install qemu (an emulator) and cloning the xv6 repo:</br></br>
 <b>
   sudo apt-get install qemu</br>
   sudo apt-get install libc6-dev:i386</br>
   git clone https://github.com/mit-pdos/xv6-public.git xv6</br>
   chmod 700 -R xv6</br>
-</b>
-Test whether xv6 is running by running the following:</br>
+</b></br>
+Test whether xv6 is running by running the following:</br></br>
 <b>
   cd xv6</br>
   make</br>
   make qemu</br>
-</b>
+</b></br>
 Congragulations, you've successfully installed xv6 on your computer!
-
+</br>
 Now, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. 
 A system call is a way for programs to interact with the operating system.
 Video references to begin with:
