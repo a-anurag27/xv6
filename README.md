@@ -1,7 +1,7 @@
 If you are trying to make a project in xv6, the most basic to start with is by adding system calls to the kernel.
 It is necessary to have a Linux flavor for this.
 
-To start off first we must have git on our laptops to clone the official repo of xv6 by MIT.
+To start off first we must have git on our laptops to clone the official repo of xv6 by MIT.</br>
 Git install command:
 
   <b>sudo apt-get install git</b></br>
