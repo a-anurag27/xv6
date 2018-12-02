@@ -44,4 +44,6 @@ Some other references:
 </ul>
 
 I have uploaded a zip file of my project after adding these system calls.
-Enjoy!
+</br>
+To run my project, download the zip file, extract and run the <b>make</b> commands given above.
+</br>Enjoy!
