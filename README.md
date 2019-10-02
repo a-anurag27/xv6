@@ -47,3 +47,7 @@ I have uploaded a zip file of my project after adding these system calls.
 </br>
 To run my project, download the zip file, extract and run the <b>make</b> commands given above.
 </br>Enjoy!
+
+Few helpful resources used:
+</br>Foo Soo: https://www.youtube.com/watch?v=DZ0-GMtOtEc
+</br>Tong Yu: https://www.youtube.com/watch?v=21SVYiKhcwM
