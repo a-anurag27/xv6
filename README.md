@@ -1,5 +1,5 @@
 xv6 is a learning OS Kernel. It completely decribes the basic working of a UNIX based system.</br>
-This is a reference guide for understanding and adding system calls in the kernel. 
+This is a reference guide for understanding and adding system calls. 
 </br>
 <a href="https://builtvisible.com/the-ubuntu-installation-guide/">Here</a> is a complete guide to install Ubuntu.</br>
 To start off first we must have git on our laptops to clone the official repo of xv6 by MIT.</br>
